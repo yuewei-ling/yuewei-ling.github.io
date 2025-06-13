@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuewei Ling"
-description              : "PhD Candidate in Management Science and Engineering"
+description              : "PhD Candidate in Management Science and Engineering @Stanford"
 repository               : "yuewei-ling/yueweiling.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 author:
   name             : "Yuewei Ling"
   avatar           : "images/profile.jpeg"
-  bio              : 
+  bio              :
   location         : "Stanford, CA"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=B0KJHmQAAAAJ&hl=en"
   email            : "yueweiling@stanford.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yuewei-Ling"
   uri              :
   bitbucket        :
   codepen          :
@@ -41,17 +41,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "yuewei-ling"
-  dblp             : #"https://dblp.org/pid/75/6568-6.html"
+  dblp             :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7724-5370"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
