@@ -1,3 +1,3 @@
-# 📎 Homepages
-- Personal Pages: https://yueweiling.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/yuewei-ling/
+# 🏠Homepages
+- Personal Pages: https://yuewei-ling.github.io
+- LinkedIn: https://www.linkedin.com/in/yuewei-ling/
