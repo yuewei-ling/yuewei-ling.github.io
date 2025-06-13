@@ -7,7 +7,7 @@
 **Ling Y**, Mao Z, Liu W, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H
 - A comprehensive study establishing severity indices for acute diquat poisoning to guide clinical triage and predict patient prognosis.
 - This research provides [**critical tools**](https://severityindexofdiquatpoisoning.streamlit.app/) for emergency medical professionals dealing with this severe toxicological emergency.
-- ![](https://img.shields.io/github/stars/yuewei-ling/yuewei-ling.github.io?style=social)
+#- ![](https://img.shields.io/github/stars/yuewei-ling/yuewei-ling.github.io?style=social)
 
 </div>
 </div>
