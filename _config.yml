@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuewei Ling"
-description              : "PhD Candidate in Management Science and Engineering @Stanford.<br/>M.S. in Epidemiology and Clinical Research @Stanford.<br/>B.E. in Industrial Engineering @SCUPI"
+description              : "PhD Candidate in Management Science and Engineering"
 repository               : "yuewei-ling/yueweiling.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 author:
   name             : "Yuewei Ling"
   avatar           : "images/profile.jpeg"
-  bio              : "<div>PhD Candidate in Management Science and Engineering</div>"
+  bio              : 
   location         : "Stanford, CA"
   employer         :
   pubmed           : 
