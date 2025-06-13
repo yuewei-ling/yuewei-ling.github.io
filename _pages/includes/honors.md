@@ -1,4 +1,4 @@
-# 🎖Honors & Awards
+# 🎖️Honors & Awards
 
 - MS&E Departmental Fellowship, Stanford University (2023 & 2024)
 - Outstanding Graduate, Sichuan Province, China (2023)
