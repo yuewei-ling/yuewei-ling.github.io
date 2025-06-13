@@ -30,4 +30,4 @@ redirect_from:
 {% include_relative includes/service.md %}
 
 <span class='anchor' id='-honors-and-awards'></span>
-{% include_relative includes/honers.md %}
+{% include_relative includes/honors.md %}
