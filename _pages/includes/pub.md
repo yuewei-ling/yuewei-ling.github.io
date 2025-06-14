@@ -5,8 +5,9 @@
 
 [**Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study**](https://doi.org/10.1016/j.annemergmed.2025.02.022) | 2025<br/>
 **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Liu W<sup>#</sup>, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H
-- This study developed and validated severity indices for diquat poisoning that enable emergency physicians to assess mortality risk for triage and 28-day prognosis using self-reported clinical data and laboratory biomarkers.
-- This study launched a user-friendly [**online platform**](https://severityindexofdiquatpoisoning.streamlit.app/) that enables emergency physicians to apply severity indices directly at the point of care.
+- This study developed and validated severity indices for diquat poisoning (SIDPs) that enable emergency physicians to assess mortality risk for triage and 28-day prognosis using self-reported clinical data and laboratory biomarkers.
+- This multicenter cohort study involved 204 patients. Predictors identified by the Burota algorithm and stepwise Cox regression were incorporated into Cox proportional hazards models to develop SIDPs, one for triage and one for prognosis (SIDP-T and SIDP-P, respectively).
+- We launched a user-friendly [**online platform**](https://severityindexofdiquatpoisoning.streamlit.app/) that enables emergency physicians to apply severity indices directly at the point of care.
 </div>
 </div>
 
