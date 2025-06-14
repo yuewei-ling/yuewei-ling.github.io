@@ -25,8 +25,7 @@ Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W,
 
 [**Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial**](https://doi.org/10.1186/s12890-024-03286-1) | 2024<br/>
 Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, Pan D<sup>#</sup>, Li S#<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhi X<sup>#</sup>, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y
-- This protocol outlines a randomized controlled trial designed to evaluate the effectiveness of an enhanced recovery after surgery (ERAS) program that incorporates cardiopulmonary rehabilitation for patients undergoing coronary artery bypass grafting (CABG).
-- The study aims to improve post-operative outcomes and quality of life for cardiac surgery patients.
+- This protocol designed a pragmatic, randomized-controlled, parallel four-arm, clinical trial to evaluate possible superiority of embedding cardiopulmonary rehabilitation in enhanced recovery after surgery (ERAS) over ERAS alone as well as to investigate effects of differential timing of cardiopulmonary rehabilitation within enhanced recovery after surgery (pre-, post-, perio-operative) on post-operative cardiopulmonary complications following coronary artery bypass grafting surgery.
 </div>
 </div>
 
