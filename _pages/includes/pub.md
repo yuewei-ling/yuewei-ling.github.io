@@ -52,8 +52,8 @@ Wang X, Li J, Wei X, Liu S, Li J, Li Y, **Ling Y**, Lu D, Chen J
 
 [**Trajectories of cognitive decline among people over 45 years old with diabetes in China: a nationally representative longitudinal study (2011~2018)**](https://doi.org/10.1371/journal.pone.0299316) | 2024<br/>
 Chen S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhou F, Qiao X, Reinhardt JD
-- Using a nationally representative longitudinal dataset, this study identifies and characterizes distinct trajectories of cognitive decline among middle-aged and older adults with diabetes in China.
-- We highlight key risk factors and potential intervention points to mitigate cognitive deterioration in this vulnerable population.
+- This study found three cognitive trajectories among Chinese adults aged 45 and older with diabetes using data from the nationally representative China Health and Retirement Longitudinal Study (CHARLS). 
+- We employed a growth mixture model to identify cognitive trajectories, and examined baseline risk factors using weighted multinomial logistic regression.
 </div>
 </div>
 
