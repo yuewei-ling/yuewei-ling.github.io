@@ -41,7 +41,7 @@ Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Health Policy</div><img src='../../images/CN_Rehab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Research on the construction of a value adjustor for the inpatient rehabilitation services based on the principle of value-based health care**](http://journal.healthpolicy.cn/html/20240307.htm) | 2024 | in Chinese<br/>
+[**Research on the construction of a value adjustor for the inpatient rehabilitation services based on the principle of value-based health care**](http://journal.healthpolicy.cn/html/20240307.htm) | in Chinese | 2024<br/>
 Wang X, Li J, Wei X, Liu S, Li J, Li Y, **Ling Y**, Lu D, Chen J
 - This study constructed a value adjustor for inpatient rehabilitation services that enables comparable assessment of rehabilitation outcomes, supporting value-based payment reform under Chinese healthcare insurance system.
 </div>
