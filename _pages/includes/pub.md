@@ -7,18 +7,15 @@
 **Ling Y<sup>#</sup>**, Mao Z#, Liu W#, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H
 - This study developed and validated severity indices for diquat poisoning that enable emergency physicians to assess mortality risk for triage and 28-day prognosis using self-reported clinical data and laboratory biomarkers.
 - This study launched a user-friendly [**online platform**](https://severityindexofdiquatpoisoning.streamlit.app/) that enables emergency physicians to apply severity indices directly at the point of care.
-#- ![](https://img.shields.io/github/stars/yuewei-ling/yuewei-ling.github.io?style=social)
-
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMIR Public Health and Surveillance</div><img src='../../images/JMIR-PublicHealthAndSurveilance_Hand-Foot-And-Mouth-Disease.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Trends and turning points of hand, foot and mouth disease in China: An insight into the influence of EV71 vaccine and COVID-19 epidemic based on counterfactual model**](https://publichealth.jmir.org/2024/1/e63146) | 2024<br/>
+[**Influence of the Enterovirus 71 Vaccine and the COVID-19 Pandemic on Hand, Foot, and Mouth Disease in China Based on Counterfactual Models: Observational Study**](https://publichealth.jmir.org/2024/1/e63146) | 2024<br/>
 Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W, Yan X, Shui T
-- This study aimed to evaluate the long-term epidemiological trends of hand, foot, and mouth disease (HFMD) in Yunnan Province, China, and assess the impacts of the enterovirus 71 (EV71) vaccination program and the COVID-19 pandemic using counterfactual autoregressive integrated moving average (ARIMA) models.
-- The EV71 vaccination significantly reduced severe HFMD cases and EV71 prevalence, while the COVID-19 pandemic and its nonpharmaceutical interventions led to a sharp temporary decline in HFMD incidence, both altering its seasonal patterns and transmission dynamics.
+- This study aimed to evaluate the long-term epidemiological trends of hand, foot, and mouth disease in Yunnan Province, China, and assess the impacts of the enterovirus 71 vaccination program and the COVID-19 pandemic using counterfactual autoregressive integrated moving average models.
 </div>
 </div>
 
