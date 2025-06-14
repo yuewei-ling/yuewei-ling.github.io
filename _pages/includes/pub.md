@@ -16,7 +16,7 @@
 
 [**Influence of the Enterovirus 71 Vaccine and the COVID-19 Pandemic on Hand, Foot, and Mouth Disease in China Based on Counterfactual Models: Observational Study**](https://publichealth.jmir.org/2024/1/e63146) | 2024<br/>
 Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W, Yan X, Shui T
-- This study aimed to evaluate the long-term epidemiological trends of hand, foot, and mouth disease in Yunnan Province, China, and assess the impacts of the enterovirus 71 vaccination program and the COVID-19 pandemic using counterfactual autoregressive integrated moving average models.
+- This study evaluated the long-term epidemiological trends of hand, foot, and mouth disease in Yunnan Province, China, and assess the impacts of the enterovirus 71 vaccination program and the COVID-19 pandemic using counterfactual autoregressive integrated moving average models.
 </div>
 </div>
 
@@ -34,18 +34,16 @@ Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, P
 
 [**Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China**](https://doi.org/10.1038/s41598-024-68972-w) | 2024<br/>
 Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
-- This research presents an optimized approach to air quality management in major Chinese cities.
-- We develop predictive models for air quality indices and identify key pollutants, providing data-driven recommendations for environmental policy and public health interventions.
+- This study developed a VMD-CSA-CNN-LSTM model using variational mode decomposition (VMD), chameleon swarm algorithm (CSA), convolutional neural networks (CNN), and long short-term memory (LSTM) networks, with data from nine representative cities, and used random forest to identify major air pollutants.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Health Policy</div><img src='../../images/Chinese-Journal-of-Health-Policy.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese Journal of Health Policy</div><img src='../../images/CN_Rehab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Research on the construction of a value adjustor for the inpatient rehabilitation services based on the principle of value-based health care**](https://doi.org/10.1371/journal.pone.0299316) | 2024<br/>
+[**Research on the construction of a value adjustor for the inpatient rehabilitation services based on the principle of value-based health care**](http://journal.healthpolicy.cn/html/20240307.htm) | 2024 | in Chinese<br/>
 Wang X, Li J, Wei X, Liu S, Li J, Li Y, **Ling Y**, Lu D, Chen J
-- This study explores the development of a value-based adjustment mechanism for inpatient rehabilitation services in the Chinese healthcare system.
-- We propose a framework that aligns reimbursement with patient outcomes, promoting higher quality care and cost-effectiveness in rehabilitation settings.
+- This study constructed a value adjustor for inpatient rehabilitation services that enables comparable assessment of rehabilitation outcomes, supporting value-based payment reform under Chinese healthcare insurance system.
 </div>
 </div>
 
