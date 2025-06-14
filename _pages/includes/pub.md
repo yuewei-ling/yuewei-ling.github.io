@@ -4,7 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 [**Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study**](https://doi.org/10.1016/j.annemergmed.2025.02.022) | 2025<br/>
-**Ling Y<sup>#</sup>**, Mao Z#, Liu W#, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H
+**Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Liu W<sup>#</sup>, Zhou C, Li J, Jiang L, Li M, Zhao H, Nie S, Wu C, Chen J, Bai G, Ren G, Xu J, Chen F, Zhang J, Sun H
 - This study developed and validated severity indices for diquat poisoning that enable emergency physicians to assess mortality risk for triage and 28-day prognosis using self-reported clinical data and laboratory biomarkers.
 - This study launched a user-friendly [**online platform**](https://severityindexofdiquatpoisoning.streamlit.app/) that enables emergency physicians to apply severity indices directly at the point of care.
 </div>
@@ -19,11 +19,11 @@ Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Pulmonary Medicine</div><img src='../../images/BMC-Pulmonary-Medicine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Pulmonary Medicine</div><img src='../../images/BMC-Pulmonary-Medicine_CABG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial**](https://doi.org/10.1186/s12890-024-03286-1) | 2024<br/>
-Yang Q#, Wang L#, Zhang X#, Lu P#, Pan D#, Li S#, **Ling Y**#, Zhi X#, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y
+Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, Pan D<sup>#</sup>, Li S#<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhi X<sup>#</sup>, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y
 - This protocol outlines a randomized controlled trial designed to evaluate the effectiveness of an enhanced recovery after surgery (ERAS) program that incorporates cardiopulmonary rehabilitation for patients undergoing coronary artery bypass grafting (CABG).
 - The study aims to improve post-operative outcomes and quality of life for cardiac surgery patients.
 </div>
@@ -33,7 +33,7 @@ Yang Q#, Wang L#, Zhang X#, Lu P#, Pan D#, Li S#, **Ling Y**#, Zhi X#, Xia L, Zh
 <div class='paper-box-text' markdown="1">
 
 [**Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China**](https://doi.org/10.1038/s41598-024-68972-w) | 2024<br/>
-Guo Z, Jing X, **Ling Y***, Yang Y, Jing N, Yuan R, Liu Y
+Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
 - This research presents an optimized approach to air quality management in major Chinese cities.
 - We develop predictive models for air quality indices and identify key pollutants, providing data-driven recommendations for environmental policy and public health interventions.
 </div>
@@ -53,7 +53,7 @@ Wang X, Li J, Wei X, Liu S, Li J, Li Y, **Ling Y**, Lu D, Chen J
 <div class='paper-box-text' markdown="1">
 
 [**Trajectories of cognitive decline among people over 45 years old with diabetes in China: a nationally representative longitudinal study (2011~2018)**](https://doi.org/10.1371/journal.pone.0299316) | 2024<br/>
-Chen S#, **Ling Y**#, Zhou F, Qiao X, Reinhardt JD
+Chen S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhou F, Qiao X, Reinhardt JD
 - Using a nationally representative longitudinal dataset, this study identifies and characterizes distinct trajectories of cognitive decline among middle-aged and older adults with diabetes in China.
 - We highlight key risk factors and potential intervention points to mitigate cognitive deterioration in this vulnerable population.
 </div>
@@ -81,12 +81,12 @@ Xue Q, **Ling Y**, Tian B
 
 ## Working Papers
 
-- **Ling Y**, Meng Q, Zhang Y, Zhang T, Liu K, Chen S, Yuan X, Liu S, Wang S, Yang Z, Jiang H, Fu Y. Investigation on the dynamic trajectory of platelet count in healthy population from 2010 to 2021 in Sichuan Han adult. (Accepted by *Chinese Journal of Laboratory Medicine*; in Chinese)
+- **Ling Y**, Meng Q, Zhang Y, Zhang T, Liu K, Chen S, Yuan X, Liu S, Wang S, Yang Z, Jiang H, Fu Y. Investigation on the dynamic trajectory of platelet count in healthy population from 2010 to 2021 in Sichuan Han adult. (Under Review at *Chinese Journal of Laboratory Medicine*; in Chinese)
 
-- **Ling Y**, Mao Z, Li J, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study. (Under Review at *Clinical Toxicology*)
+- **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study. (Under Review at *Clinical Toxicology*)
 
-- **Ling Y***, Shahmon E, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application. (Submitted to *Information Fusion*)
+- **Ling Y<sup>#,*</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application. (Submitted to *Information Fusion*)
 
-- **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward. (Submitted to *Progress in Disaster Science*)
+- **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward. (In Preparation for *Progress in Disaster Science*)
 
 (# for equal contribution, * for corresponding author)
