@@ -11,6 +11,9 @@ description              : "PhD Candidate in Management Science and Engineering 
 repository               : "yuewei-ling/yuewei-ling.github.io"
 google_scholar_stats_use_cdn : true
 
+url: "https://yuewei-ling.github.io"
+lang_switch_url: "https://lingyuewei.github.io"
+
 # google analytics
 google_analytics_id      : #G-SWFCX99KQZ
 
@@ -23,7 +26,7 @@ baidu_site_verification  : #code-ZxFK3f4pfb
 author:
   name             : "Yuewei Ling"
   avatar           : "images/profile.jpeg"
-  bio              : "[中文/Chinese](https://lingyuewei.github.io/)"
+  bio              :
   location         : "Stanford, CA"
   employer         :
   pubmed           :
