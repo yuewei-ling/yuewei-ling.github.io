@@ -72,18 +72,15 @@ Fernandez G, Asari M, Uy N, Veitata S, Fayazi M, **Ling Y**, Xu Q, Wang H, Ramos
 
 [**Portfolio Optimization Model for Gold and Bitcoin Based on Weighted Unidirectional Dual-Layer LSTM Model and SMA-Slope Strategy**](https://www.hindawi.com/journals/cin/2022/1869897) | 2022<br/>
 Xue Q, **Ling Y**, Tian B
-- This study integrates a weighted unidirectional dual-layer long short-term memory (LSTM) model for daily price prediction with a particle swarm-optimized SMA-slope strategy, which enhances buy/sell signals using *k*-slope indicators, and evaluates its effectiveness through five-year trading simulations.
+- This study integrates a weighted unidirectional dual-layer long short-term memory (LSTM) model for daily price prediction with a particle swarm-optimized simple moving average (SMA) and slope-based trading strategy, which enhances buy/sell signals using *k*-slope indicators, and evaluates its effectiveness through five-year trading simulations.
 </div>
 </div>
 
 ## Working Papers
 
 - **Ling Y**, Meng Q, Zhang Y, Zhang T, Liu K, Chen S, Yuan X, Liu S, Wang S, Yang Z, Jiang H, Fu Y. Investigation on the dynamic trajectory of platelet count in healthy population from 2010 to 2021 in Sichuan Han adult. (Under Review at *Chinese Journal of Laboratory Medicine*; in Chinese)
-
 - **Ling Y<sup>#</sup>**, Mao Z<sup>#</sup>, Li J<sup>#</sup>, Zhang H, Zhou C, Liu W, Zhou Y, Jiang L, Li M, Zhao H, Nie S, Xu J, Geng P, Xu C, Huang J, Chen F, Zhang J, Sun H. Leveraging plasma concentration levels to optimize extracorporeal treatment in acute diquat poisoning: a multi-center retrospective cohort study. (Under Review at *Clinical Toxicology*)
-
 - **Ling Y<sup>#</sup>**, Shahmon E<sup>#</sup>, Brandeau ML, Yamin D. Improving imputation of missing data in time series through multi-scale modeling of periodicity: a smartwatch application. (Submitted to *Information Fusion*)
-
 - **Ling Y**, Hui J, Fernandez G, Xu Q, Wang H. Content analysis of policies on disaster waste management in Sichuan, China: trends and ways forward. (In Preparation for *Progress in Disaster Science*)
 
 (# for equal contribution, * for corresponding author)
