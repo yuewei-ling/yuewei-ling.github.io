@@ -29,7 +29,7 @@ Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, P
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports</div><img src='../../images/Scientific-Reports.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Reports</div><img src='../../images/SR_AQI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China**](https://doi.org/10.1038/s41598-024-68972-w) | 2024<br/>
