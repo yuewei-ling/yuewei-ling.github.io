@@ -62,8 +62,8 @@ Chen S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhou F, Qiao X, Reinhardt JD
 
 [**Developing capacity for post-typhoon disaster waste management in Lautoka, Fiji, and Makati, Philippines**](https://www.apn-gcr.org/bulletin/article/developing-capacity-for-post-typhoon-disaster-waste-management-in-lautoka-fiji-and-makati-philippines/) | 2023<br/>
 Fernandez G, Asari M, Uy N, Veitata S, Fayazi M, **Ling Y**, Xu Q, Wang H, Ramos LV, and Singh S
-- This paper documents capacity-building efforts for disaster waste management in typhoon-prone regions of the Pacific.
-- Through international collaboration, we develop and implement strategies to improve post-disaster recovery and build community resilience in vulnerable coastal cities.
+- This work aimed to enhance the capacity of Lautoka, Fiji, and Makati, Philippines, for effective post-typhoon disaster waste management.
+- The project conducted training needs assessments, developed and delivered six targeted training modules, facilitated stakeholder workshops, and guided the participatory creation of disaster waste management contingency plans, supported by international academic collaboration.
 </div>
 </div>
 
@@ -72,8 +72,7 @@ Fernandez G, Asari M, Uy N, Veitata S, Fayazi M, **Ling Y**, Xu Q, Wang H, Ramos
 
 [**Portfolio Optimization Model for Gold and Bitcoin Based on Weighted Unidirectional Dual-Layer LSTM Model and SMA-Slope Strategy**](https://www.hindawi.com/journals/cin/2022/1869897) | 2022<br/>
 Xue Q, **Ling Y**, Tian B
-- This research develops an advanced portfolio optimization approach for alternative assets, specifically gold and Bitcoin.
-- We implement a weighted unidirectional dual-layer LSTM model combined with a simple moving average (SMA) slope strategy to enhance investment returns while managing risk in volatile crypto markets.
+- This study integrates a weighted unidirectional dual-layer long short-term memory (LSTM) model for daily price prediction with a particle swarm-optimized SMA-slope strategy, which enhances buy/sell signals using *k*-slope indicators, and evaluates its effectiveness through five-year trading simulations.
 </div>
 </div>
 
