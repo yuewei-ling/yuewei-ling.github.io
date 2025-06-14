@@ -47,7 +47,7 @@ Wang X, Li J, Wei X, Liu S, Li J, Li Y, **Ling Y**, Lu D, Chen J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLOS ONE</div><img src='../../images/PLOS-ONE.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLOS ONE</div><img src='../../images/PLOS-One_CHARLS.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Trajectories of cognitive decline among people over 45 years old with diabetes in China: a nationally representative longitudinal study (2011~2018)**](https://doi.org/10.1371/journal.pone.0299316) | 2024<br/>
@@ -57,7 +57,7 @@ Chen S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhou F, Qiao X, Reinhardt JD
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APN Science Bulletin</div><img src='../../images/APN-Science-Bulletin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APN Science Bulletin</div><img src='../../images/APN-Science-Bulletin_Report.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Developing capacity for post-typhoon disaster waste management in Lautoka, Fiji, and Makati, Philippines**](https://www.apn-gcr.org/bulletin/article/developing-capacity-for-post-typhoon-disaster-waste-management-in-lautoka-fiji-and-makati-philippines/) | 2023<br/>
@@ -67,7 +67,7 @@ Fernandez G, Asari M, Uy N, Veitata S, Fayazi M, **Ling Y**, Xu Q, Wang H, Ramos
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Intelligence and Neuroscience</div><img src='../../images/Neuroscience.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Intelligence and Neuroscience</div><img src='../../images/CIN_Portfolio-Optimization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Portfolio Optimization Model for Gold and Bitcoin Based on Weighted Unidirectional Dual-Layer LSTM Model and SMA-Slope Strategy**](https://www.hindawi.com/journals/cin/2022/1869897) | 2022<br/>
