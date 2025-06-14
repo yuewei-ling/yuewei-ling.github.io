@@ -1,6 +1,6 @@
 # 📚Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Annals of Emergency Medicine</div><img src='../../images/Annals-of-Emergency-Medicine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Annals of Emergency Medicine</div><img src='../../images/DQ-SIDP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Severity indices of diquat poisoning for triage and prognosis in acute diquat poisoning: a multi-center prospective cohort study**](https://doi.org/10.1016/j.annemergmed.2025.02.022) | 2025<br/>
