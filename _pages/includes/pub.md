@@ -47,7 +47,7 @@ Wang X, Li J, Wei X, Liu S, Li J, Li Y, **Ling Y**, Lu D, Chen J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLOS ONE</div><img src='../../images/PLOS-One_CHARLS.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLOS ONE</div><img src='../../images/PLOS-One_CHARLS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Trajectories of cognitive decline among people over 45 years old with diabetes in China: a nationally representative longitudinal study (2011~2018)**](https://doi.org/10.1371/journal.pone.0299316) | 2024<br/>
