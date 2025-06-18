@@ -16,7 +16,7 @@
 
 [**Influence of the Enterovirus 71 Vaccine and the COVID-19 Pandemic on Hand, Foot, and Mouth Disease in China Based on Counterfactual Models: Observational Study**](https://publichealth.jmir.org/2024/1/e63146) | 2024<br/>
 Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W, Yan X, Shui T
-- This study evaluated the long-term epidemiological trends of hand, foot, and mouth disease in Yunnan Province, China, and assess the impacts of the enterovirus 71 vaccination program and the COVID-19 pandemic using counterfactual autoregressive integrated moving average models.
+- This study investigated the long-term epidemiological trends of hand, foot, and mouth disease in Yunnan Province, China, and evaluated the impacts of the enterovirus 71 vaccination program and the COVID-19 pandemic using counterfactual autoregressive integrated moving average models.
 </div>
 </div>
 
@@ -25,7 +25,7 @@ Nie J, Huang T, Sun Y, Peng Z, Yang H, Zheng D, Guo F, Xu M, **Ling Y**, Zhao W,
 
 [**Impact of an enhanced recovery after surgery program integrating cardiopulmonary rehabilitation on post-operative prognosis of patients treated with CABG: protocol of the ERAS-CaRe randomized controlled trial**](https://doi.org/10.1186/s12890-024-03286-1) | 2024<br/>
 Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, Pan D<sup>#</sup>, Li S<sup>#</sup>, **Ling Y<sup>#</sup>**, Zhi X<sup>#</sup>, Xia L, Zhu Y, Chen Y, Liu C, Jin W, Reinhardt JD, Wang X, Zheng Y
-- This protocol designed a pragmatic, randomized-controlled, parallel four-arm, clinical trial to evaluate possible superiority of embedding cardiopulmonary rehabilitation in enhanced recovery after surgery (ERAS) over ERAS alone as well as to investigate effects of differential timing of cardiopulmonary rehabilitation within enhanced recovery after surgery (pre-, post-, perio-operative) on post-operative cardiopulmonary complications following coronary artery bypass grafting surgery.
+- This protocol designed a pragmatic, randomized-controlled, parallel four-arm, clinical trial to evaluate potential superiority of embedding cardiopulmonary rehabilitation in enhanced recovery after surgery (ERAS) over ERAS alone, as well as to investigate effects of differential timing of cardiopulmonary rehabilitation within ERAS (pre-, post-, perio-operative) on post-operative cardiopulmonary complications following coronary artery bypass grafting surgery.
 </div>
 </div>
 
@@ -34,7 +34,8 @@ Yang Q<sup>#</sup>, Wang L<sup>#</sup>, Zhang X<sup>#</sup>, Lu P<sup>#</sup>, P
 
 [**Optimized air quality management based on air quality index prediction and air pollutants identification in representative cities in China**](https://doi.org/10.1038/s41598-024-68972-w) | 2024<br/>
 Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
-- This study developed a VMD-CSA-CNN-LSTM model using variational mode decomposition (VMD), chameleon swarm algorithm (CSA), convolutional neural networks (CNN), and long short-term memory (LSTM) networks, with data from nine representative cities, and used random forest to identify major air pollutants.
+- This study developed a VMD-CSA-CNN-LSTM model to predict air quality index, using variational mode decomposition (VMD), chameleon swarm algorithm (CSA), convolutional neural networks (CNN), and long short-term memory (LSTM) networks.
+- The developed model was validated using data from nine representative cities in China (Hohhot, Yinchuan, Lanzhou, Beijing, Taiyuan, and Xi’an, Shanghai, Nanjing, Wuhan), and random forest algorithm was used to identify major air pollutants in each city.
 </div>
 </div>
 
@@ -43,7 +44,7 @@ Guo Z, Jing X, **Ling Y<sup>*</sup>**, Yang Y, Jing N, Yuan R, Liu Y
 
 [**Research on the construction of a value adjustor for the inpatient rehabilitation services based on the principle of value-based health care**](http://journal.healthpolicy.cn/html/20240307.htm) | in Chinese | 2024<br/>
 Wang X, Li J, Wei X, Liu S, Li J, Li Y, **Ling Y**, Lu D, Chen J
-- This study constructed a value adjustor for inpatient rehabilitation services that enables comparable assessment of rehabilitation outcomes, supporting value-based payment reform under Chinese healthcare insurance system.
+- This study developed a value adjustor for inpatient rehabilitation services, which can provide comparable assessment of rehabilitation outcomes, and further support value-based payment reform under Chinese healthcare insurance system.
 </div>
 </div>
 
@@ -72,7 +73,8 @@ Fernandez G, Asari M, Uy N, Veitata S, Fayazi M, **Ling Y**, Xu Q, Wang H, Ramos
 
 [**Portfolio Optimization Model for Gold and Bitcoin Based on Weighted Unidirectional Dual-Layer LSTM Model and SMA-Slope Strategy**](https://www.hindawi.com/journals/cin/2022/1869897) | 2022<br/>
 Xue Q, **Ling Y**, Tian B
-- This study integrates a weighted unidirectional dual-layer long short-term memory (LSTM) model for daily price prediction with a particle swarm-optimized simple moving average (SMA) and slope-based trading strategy, which enhances buy/sell signals using *k*-slope indicators, and evaluates its effectiveness through five-year trading simulations.
+- This study integrated a weighted unidirectional dual-layer long short-term memory (LSTM) model for daily price prediction with a particle swarm-optimized simple moving average (SMA) and slope-based trading strategy.
+- The developed model enhanced buy/sell signals using *k*-slope indicators, and its effectiveness was evaluated through a five-year trading simulation.
 </div>
 </div>
 
